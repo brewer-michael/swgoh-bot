@@ -1,0 +1,28 @@
+{
+  "name": "memberinfo",
+  "version": "2.0.0",
+  "description": "",
+  "main": "./lib",
+  "scripts": {
+    "compile": "babel src --out-dir lib",
+    "start": "npm run compile && node ./lib"
+  },
+ 
+  "author": "Mario Reder",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tarnadas/shard-payout/issues"
+  },
+  "homepage": "https://github.com/Tarnadas/shard-payout#readme",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "nightmare": "^2.10.0",
+    "uws": "^8.14.1",
+    "xlsx": "^0.11.19"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0"
+  }
+}
