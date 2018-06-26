@@ -1,16 +1,16 @@
-CREATE DATABASE IF NOT EXISTS jedistar CHARACTER SET UTF8;
+CREATE DATABASE IF NOT EXISTS SLJbot CHARACTER SET UTF8;
 
-CREATE USER IF NOT EXISTS 'jedistar'@'localhost' IDENTIFIED BY 'JeDiStArBoT';
+CREATE USER IF NOT EXISTS 'SLJbot'@'localhost' IDENTIFIED BY 'sLjBoTlIVes';
 
-GRANT ALL ON jedistar.* TO 'jedistar'@'localhost';
+GRANT ALL ON SLJbot.* TO 'SLJbot'@'localhost';
 
-USE jedistar;
+USE SLJbot;
 
 CREATE TABLE IF NOT EXISTS guild
 (
 	channelID VARCHAR(64) PRIMARY KEY,
 	guildID INT NOT NULL
-);	
+);
 
 CREATE TABLE IF NOT EXISTS characters
 (

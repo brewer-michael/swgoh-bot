@@ -120,7 +120,7 @@
 		"messages": {
 			"fastestPath": "Le meilleur classement peut être atteint en suivant la progression :\r\n **%s** \r\n",
 			"help": "Cette commande donne le plus haut rang d'arène accessible en 5 combats.\r\n\r\n**Exemple d'appel**\r\n%arene 26",
-			"helpUs": "Attention ce résultat est approximatif par manque de données. N'hésitez pas à nous aider en nous contactant sur Discord (<https://jedistar.jimdo.com/jedistar-bot/>).\r\n",
+			"helpUs": "Attention ce résultat est approximatif par manque de données. N'hésitez pas à nous aider en nous contactant sur Discord (<https://jedistar.jimdo.com/SLJbot-bot/>).\r\n",
 			"fastestPathTitle": "Sans dépenser de cristaux à partir du rang %d",
 			"helpUsTitle": "Attention"
 		},
@@ -196,7 +196,7 @@
 	"helpCommandParameters": {
 		"command": "help",
 		"messages": {
-			"introMessage": "Pour une aide détaillée, consulter : <https://jedistar.jimdo.com/jedistar-bot/>\r\nVoici un petit aperçu de ce que je peux faire pour vous :",
+			"introMessage": "Pour une aide détaillée, consulter : <https://jedistar.jimdo.com/SLJbot-bot/>\r\nVoici un petit aperçu de ce que je peux faire pour vous :",
 			"smallModsMessage": "- %help mods : pour en savoir plus sur la commande mods",
 			"smallRaidMessage": "- %help raid : pour en savoir plus sur la commande raid",
 			"smallEquilibrageMessage": "- %help equilibrage : pour en savoir plus sur la commande equilibrage",
